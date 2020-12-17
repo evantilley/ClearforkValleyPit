@@ -112,3 +112,18 @@ font-weight: bolder;
 
 
 
+.theme-image{
+	height: 540px;
+}
+
+.how-might-image{
+	width: 1100px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.pit-image{
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
