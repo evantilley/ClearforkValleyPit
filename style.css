@@ -47,3 +47,68 @@ font-size: 24px;
 font-weight: bolder;
 
 }
+
+.ack-1 {
+	font-size: 18px;
+}
+
+.bolder{
+	font-weight: bolder;;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.light-green-bg{
+	background-color: #E3F3ED !important;
+	width: 100vw;
+	position: relative;
+	left: 50%;
+	right: 50%;
+	margin-left: -50vw;
+	margin-right: -50vw;
+}
+
+.margins{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+.keys{
+	color: #21735A;
+	font-size: 36px;
+	font-weight: bolder;
+	margin-left: 200px !important;
+
+}
+.info-stuff{
+	color: #21735A;
+	margin-left: 200px !important;
+	margin-right: 200px !important;
+}
+
+.title-sub{
+	font-size: 24px;
+}
+
+
+
+.title-image-new{
+	max-width: 100%;
+}
+
+
+
+
+
+
+
