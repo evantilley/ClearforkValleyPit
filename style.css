@@ -42,7 +42,7 @@ width: 40vw;
 
 }
 .sub-title-text{
-font-family: 'Roboto';
+
 font-size: 24px;
 font-weight: bolder;
 
@@ -105,6 +105,141 @@ font-weight: bolder;
 .title-image-new{
 	max-width: 100%;
 }
+
+
+.new-light-green{
+	color: #55AA91;
+}
+
+
+
+
+.new-image-file{
+	max-width: 80%;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+
+
+
+
+.description-40{
+	font-size: 18;
+}
+
+
+.mild-green-background{
+	background-color: #ACD6C9;
+	
+}
+
+
+.special-border{
+	padding: 20px;
+	border: 4px solid #64B49A;
+}
+
+.test-description{
+	font-size: 22px;
+	color: #55AA91;
+	font-style: italic;
+}
+
+.scaled-image{
+	max-width: 90%;
+}
+
+.force-margin{
+	margin-left: 200px !important;
+}
+
+.green-description-text{
+	font-size: 24px;
+	color: #21735A;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
