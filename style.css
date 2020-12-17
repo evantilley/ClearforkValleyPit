@@ -107,8 +107,30 @@ font-weight: bolder;
 }
 
 
+.new-light-green{
+	color: #55AA91;
+}
 
 
 
 
+.new-image-file{
+	max-width: 80%;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+
+
+
+
+.description-40{
+	font-size: 18;
+}
+
+
+.mild-green-background{
+	background-color: #ACD6C9;
+	
+}
 
