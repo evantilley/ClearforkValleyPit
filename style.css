@@ -211,15 +211,86 @@ font-weight: bolder;
 
 
 
+.map-text{
+	position: absolute;
+	width: 450px;
+	bottom: 8px;
+	right: 16px;
+	color: white;
+	background-color: black;
+	opacity: 75%;
+	padding: 10px;
+}
 
+.bolded-text{
+	font-weight: bold;
+}
 
+.bolded-text-user{
+	font-weight: bold;
+	font-size: larger;
+}
 
+.user-journeys{
+	background-color: ACD6C9;
+	padding: 38px;
+}
+.link-text{
+	font-size: small;
+}
 
+.italic-text{
+	font-style: italic;
+}
+.image-pnk{
+	width: 1400;
+}
 
+.transition-text{
+	font-size: large;
+}
 
+.constraint-background{
+	width: 90%;
+	background-color: #F4D3C9;
+	padding: 55px;
+	;
+}
 
+.constraint-background-green{
+	width: 90%;
+	background-color: #ACD6C9;
+	padding: 55px;
+	margin-left: 90px;
+	
+}
+.bolded-white{
+	font-weight: bold;
+	color: white;
+	font-size: 40px;
+	padding-left: 100px;
+}
 
+.explanation-bold{
+	font-weight: bold;
+}
 
+.pnk-image{
+	z-index: 3000;
+	margin-left: 500;
+}
+
+.quoted-text{
+	font-size: small;
+}
+
+.opportunity-class{
+	margin-left: 170px;
+}
+
+.constraint-class{
+	margin-right: 100px;
+}
 
 
 
