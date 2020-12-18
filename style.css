@@ -128,6 +128,13 @@ font-weight: bolder;
 	font-size: 18;
 }
 
+.new-padding{
+	padding-bottom: 4vh;
+}
+
+.new-padding-top{
+	padding-top: 8vh;
+}
 
 html {
   /* scroll-behavior: smooth; */
