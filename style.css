@@ -129,6 +129,10 @@ font-weight: bolder;
 }
 
 
+html {
+  scroll-behavior: smooth;
+}
+
 .mild-green-background{
 	background-color: #ACD6C9;
 	
@@ -232,6 +236,22 @@ font-weight: bolder;
 
 .italic-text{
 	font-style: italic;
+}
+
+.overall-image{
+	cursor: pointer;
+	z-index: 1000;
+}
+
+.intro-text{
+	font-size: 18px;
+}
+
+.padding-0{
+	margin-right: 0 !important;
+	margin-left: 0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
 }
 .image-pnk{
 	width: 1400;
