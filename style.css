@@ -249,7 +249,7 @@ html {
 
 .overall-image{
 	cursor: pointer;
-	z-index: 1000;
+	z-index: -1000;
 }
 
 .intro-text{
