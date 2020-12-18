@@ -83,6 +83,10 @@ font-weight: bolder;
 	padding-right: 200px;
 }
 
+.img-scale-class{
+	max-width: 100%;
+	height: auto;
+}
 .keys{
 	color: #21735A;
 	font-size: 36px;
