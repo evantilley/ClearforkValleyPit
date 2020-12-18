@@ -128,6 +128,11 @@ font-weight: bolder;
 	font-size: 18;
 }
 
+.img-scale-class{
+	max-width: 100%;
+	height: auto;
+}
+
 .new-padding{
 	padding-bottom: 4vh;
 }
