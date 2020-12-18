@@ -230,6 +230,15 @@ html {
 	font-weight: bold;
 }
 
+.bolded-text-user{
+	font-weight: bold;
+	font-size: larger;
+}
+
+.user-journeys{
+	background-color: ACD6C9;
+	padding: 38px;
+}
 .link-text{
 	font-size: small;
 }
