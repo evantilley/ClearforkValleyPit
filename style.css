@@ -267,11 +267,20 @@ font-weight: bolder;
 }
 
 .pnk-image{
+	z-index: 3000;
 	margin-left: 500;
 }
 
 .quoted-text{
 	font-size: small;
+}
+
+.opportunity-class{
+	margin-left: 170px;
+}
+
+.constraint-class{
+	margin-right: 100px;
 }
 
 
