@@ -82,6 +82,10 @@ font-weight: bolder;
 	padding-right: 200px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .keys{
 	color: #21735A;
 	font-size: 36px;
